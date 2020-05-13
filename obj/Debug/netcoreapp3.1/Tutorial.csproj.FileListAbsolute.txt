@@ -1,0 +1,13 @@
+C:\Users\adria\Documents\Dev\Tutorial\bin\Debug\netcoreapp3.1\Tutorial.exe
+C:\Users\adria\Documents\Dev\Tutorial\bin\Debug\netcoreapp3.1\Tutorial.deps.json
+C:\Users\adria\Documents\Dev\Tutorial\bin\Debug\netcoreapp3.1\Tutorial.runtimeconfig.json
+C:\Users\adria\Documents\Dev\Tutorial\bin\Debug\netcoreapp3.1\Tutorial.runtimeconfig.dev.json
+C:\Users\adria\Documents\Dev\Tutorial\bin\Debug\netcoreapp3.1\Tutorial.dll
+C:\Users\adria\Documents\Dev\Tutorial\bin\Debug\netcoreapp3.1\Tutorial.pdb
+C:\Users\adria\Documents\Dev\Tutorial\obj\Debug\netcoreapp3.1\Tutorial.csprojAssemblyReference.cache
+C:\Users\adria\Documents\Dev\Tutorial\obj\Debug\netcoreapp3.1\Tutorial.csproj.CoreCompileInputs.cache
+C:\Users\adria\Documents\Dev\Tutorial\obj\Debug\netcoreapp3.1\Tutorial.AssemblyInfoInputs.cache
+C:\Users\adria\Documents\Dev\Tutorial\obj\Debug\netcoreapp3.1\Tutorial.AssemblyInfo.cs
+C:\Users\adria\Documents\Dev\Tutorial\obj\Debug\netcoreapp3.1\Tutorial.dll
+C:\Users\adria\Documents\Dev\Tutorial\obj\Debug\netcoreapp3.1\Tutorial.pdb
+C:\Users\adria\Documents\Dev\Tutorial\obj\Debug\netcoreapp3.1\Tutorial.genruntimeconfig.cache
